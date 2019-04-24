@@ -1,0 +1,7 @@
+C:\Users\Lappi\source\repos\stringCombinationGenerator\bin\Debug\stringCombinationGenerator.exe.config
+C:\Users\Lappi\source\repos\stringCombinationGenerator\bin\Debug\stringCombinationGenerator.exe
+C:\Users\Lappi\source\repos\stringCombinationGenerator\bin\Debug\stringCombinationGenerator.pdb
+C:\Users\Lappi\source\repos\stringCombinationGenerator\obj\Debug\stringCombinationGenerator.csprojAssemblyReference.cache
+C:\Users\Lappi\source\repos\stringCombinationGenerator\obj\Debug\stringCombinationGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lappi\source\repos\stringCombinationGenerator\obj\Debug\stringCombinationGenerator.exe
+C:\Users\Lappi\source\repos\stringCombinationGenerator\obj\Debug\stringCombinationGenerator.pdb
